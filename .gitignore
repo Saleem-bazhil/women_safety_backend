@@ -1,0 +1,25 @@
+# Django and Python
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+staticfiles/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
